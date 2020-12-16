@@ -1,10 +1,9 @@
-### Hi there 👋
 
 ### Hi there 👋
+Myself **Saumava Das**, from Kolkata, India. I am a **MERN** stack developer having good knowledge in leaner and graph based database. 
 
-<!--
-**saumavadas/saumavadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+My contact details are as follows:
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
