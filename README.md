@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-Myself **Saumava Das**, from Kolkata, India. I am a **MERN** stack developer having good knowledge in leaner and graph based database. 
+Myself **Saumava Das**, from Kolkata, India. I am a **MERN** stack developer having good knowledge in linear and graph based database. 
 
 
 My contact details are as follows:
