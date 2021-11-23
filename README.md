@@ -5,12 +5,12 @@ Myself **Saumava Das**, from Kolkata, India. I am a **MERN** stack developer hav
 
 933925325(telegram)
 
-saumava.das
+skype: saumava.das
 
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on :Reactjs, Redux, Thunk, Apollo
-- 🌱 I’m currently learning :Typescript
+- 🔭 I’m currently working on :NodeJS(API) & ExpressJS, PHP8, MariaDB, MongoDB, AWS Linux, Docker  
+- 🌱 I’m currently learning :DevSecOps
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Javascript
+- 🤔 I’m looking for help with DevSecOps
